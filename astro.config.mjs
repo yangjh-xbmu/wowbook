@@ -8,7 +8,7 @@ export default defineConfig({
     starlight({
       title: "宏哥的 WoW 世界",
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/yangjh-xbmu/wowbook",
       },
       sidebar: [
         {
