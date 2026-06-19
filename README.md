@@ -1,3 +1,11 @@
+---
+purpose: 基于 Starlight 模板的 Astro 文档站点，用于展示和记录 wowbook 项目相关内容
+status: active
+next_steps: []
+capabilities:
+  - documentation-site
+  - astro-starlight
+---
 # Starlight Starter Kit: Basics
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
