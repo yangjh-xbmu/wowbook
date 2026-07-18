@@ -12,6 +12,11 @@ export default defineConfig({
       },
       sidebar: [
         {
+          label: "升级攻略",
+          autogenerate: { directory: "guide" },
+          collapsed: false,
+        },
+        {
           label: "任务",
           autogenerate: { directory: "quest" },
           collapsed: true,
